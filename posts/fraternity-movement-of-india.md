@@ -7,4 +7,6 @@ date: '2021-08-01'
 -   Official website of Fraternity Movement, one of India's largest student movements.
 -   JamStack website with 11ty and WP Rest API.
 
-[visit fraternity website](https://fraternityindia.org)
+[visit website](https://fraternityindia.org)
+
+<img src="/images/posts-images/fraternity-screen.jpeg">
